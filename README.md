@@ -14,8 +14,8 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
  
 ## Other Stuff
-- [My Resume](https://drive.google.com/file/d/1KE-sUvYjYa4M_IT-D0SS_QkUh25I8AxX/view?usp=sharing)
-
+<!--- [My Resume](https://drive.google.com/file/d/1KE-sUvYjYa4M_IT-D0SS_QkUh25I8AxX/view?usp=sharing)
+-->
 ![Santiago's github stats](https://github-readme-stats.vercel.app/api?username=Santiago840&show_icons=true&hide=[%22issues%22])
  
  -------
